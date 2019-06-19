@@ -1,1 +1,1 @@
-[Link to my JavaScript Snake Game!](tiny.cc/kdsnake)
+[Link to my JavaScript Snake Game!](http://tiny.cc/kdsnake)
